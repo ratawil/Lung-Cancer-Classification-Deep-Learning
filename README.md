@@ -1,1 +1,1 @@
-# Lung-Colon-Cancer-Classification-Deep-Learning
+# Lung-Cancer-Classification-Deep-Learning
